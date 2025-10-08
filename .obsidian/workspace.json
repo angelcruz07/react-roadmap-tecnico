@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "02c97a384f3b9830",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ae7dc8cedb87a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c063e0324f309e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1983fee7bbf818e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6742de159355fdba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29882063a96368e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "69c5a85d47ffbd16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "426f6bc01e0073c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9e875cbc27361f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75beec4a2765a8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c15d3a735e140bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de React"
+            }
+          },
+          {
+            "id": "05c94d061f79e10b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de React"
+            }
+          },
+          {
+            "id": "e16d040a62116d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3c0969ff8d32f837",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de React"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "14c063e0324f309e",
+  "lastOpenFiles": [
+    "1737761019-01-introducion.md",
+    "README.md~",
+    "1759934677-05-custom-hooks.md",
+    "README.md",
+    "React.md",
+    "1739924373-04-use-state.md",
+    "1738529643-05-use-effect.md",
+    "1737844334-03-componentes.md",
+    "assets/react.png",
+    "assets"
+  ]
+}
